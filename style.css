@@ -305,9 +305,10 @@ a {
     margin: 0 auto;
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 24px;
 }
+
 
 .project-card {
     overflow: hidden;
@@ -731,9 +732,9 @@ a {
     }
 
     .projects-grid {
-        grid-template-columns: 1fr;
-        max-width: 650px;
-    }
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: 100%;
+}
 
     .project-content h3 {
         min-height: auto;
@@ -749,6 +750,9 @@ a {
 ========================= */
 
 @media (max-width: 650px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
     .contact-details {
     grid-template-columns: 1fr;
     }
