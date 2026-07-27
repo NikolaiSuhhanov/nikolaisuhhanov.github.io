@@ -750,6 +750,9 @@ a {
 ========================= */
 
 @media (max-width: 650px) {
+    .references-grid {
+        grid-template-columns: 1fr;
+    }
     .projects-grid {
         grid-template-columns: 1fr;
     }
