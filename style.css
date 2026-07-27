@@ -840,4 +840,58 @@ a {
     .documents-grid {
         grid-template-columns: 1fr;
     }
+    /* Final mobile width fix */
+@media (max-width: 650px) {
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    #documents {
+        width: 100% !important;
+        max-width: 100% !important;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+
+    #documents .section-heading {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0;
+        box-sizing: border-box;
+    }
+
+    .references-grid {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+        margin: 0 !important;
+
+        grid-template-columns: minmax(0, 1fr) !important;
+        gap: 16px;
+        box-sizing: border-box;
+    }
+
+    .reference-card {
+        width: 100% !important;
+        max-width: 100% !important;
+        min-width: 0 !important;
+        padding: 20px;
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+
+    .reference-card h3,
+    .reference-card p,
+    .reference-type {
+        max-width: 100%;
+        min-width: 0;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+    }
+}
 }
