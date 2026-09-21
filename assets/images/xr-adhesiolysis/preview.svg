@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+<title id="title">XR Adhesiolysis Trainer prototype</title>
+<desc id="desc">Two U-shaped bowel loops, a green adhesion between them, and surgical grasper and scissors instruments.</desc>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#8fb1d5"/><stop offset="1" stop-color="#d5f1f4"/></linearGradient>
+<linearGradient id="bowel" x2="1" y2="0"><stop stop-color="#9a484e"/><stop offset=".25" stop-color="#e98280"/><stop offset=".55" stop-color="#f39a91"/><stop offset="1" stop-color="#ad535b"/></linearGradient>
+<linearGradient id="steel" x2="1" y2="0"><stop stop-color="#89919d"/><stop offset=".48" stop-color="#f6f7fa"/><stop offset="1" stop-color="#8e949d"/></linearGradient>
+</defs>
+<path fill="url(#sky)" d="M0 0h960v225H0z"/>
+<path fill="#666365" d="M0 225h960v315H0z"/>
+<path d="M240 135v215c0 98 150 98 150 0V135" fill="none" stroke="#7d3c42" stroke-width="67" stroke-linejoin="round" stroke-linecap="butt"/>
+<path d="M240 135v215c0 98 150 98 150 0V135" fill="none" stroke="url(#bowel)" stroke-width="61" stroke-linejoin="round" stroke-linecap="butt"/>
+<path d="M565 135v215c0 98 150 98 150 0V135" fill="none" stroke="#7d3c42" stroke-width="67" stroke-linejoin="round" stroke-linecap="butt"/>
+<path d="M565 135v215c0 98 150 98 150 0V135" fill="none" stroke="url(#bowel)" stroke-width="61" stroke-linejoin="round" stroke-linecap="butt"/>
+<path d="M420 305 535 298" fill="none" stroke="#46b755" stroke-width="12" stroke-linecap="round"/>
+<path d="M420 305 535 298" fill="none" stroke="#81e279" stroke-width="5" stroke-linecap="round"/>
+<path d="M140 440 223 304" fill="none" stroke="url(#steel)" stroke-width="18" stroke-linecap="round"/>
+<path d="M216 313 233 297" fill="none" stroke="#e1e5eb" stroke-width="7" stroke-linecap="round"/>
+<path d="M498 458 476 311" fill="none" stroke="url(#steel)" stroke-width="18" stroke-linecap="round"/>
+<path d="M476 311 467 300m9 11 9-12" fill="none" stroke="#eff2f5" stroke-width="5" stroke-linecap="round"/>
+</svg>
