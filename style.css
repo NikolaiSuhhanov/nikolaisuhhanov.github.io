@@ -305,7 +305,7 @@ a {
     margin: 0 auto;
 
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 24px;
 }
 
@@ -379,6 +379,25 @@ a {
 
 .project-links a:hover {
     text-decoration: underline;
+}
+
+.project-status {
+    display: inline-block;
+    margin-bottom: 14px;
+    padding: 5px 11px;
+    border: 1px solid #bfdbfe;
+    border-radius: 999px;
+    background-color: #eff6ff;
+    color: #1d4ed8 !important;
+    font-size: 12px !important;
+    font-weight: bold;
+    line-height: 1.4;
+}
+
+.project-progress-note {
+    margin-top: 2px;
+    color: #64748b !important;
+    font-size: 13px !important;
 }
 
 /* =========================
