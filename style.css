@@ -105,7 +105,7 @@ a {
 .hero-label {
     margin-bottom: 14px;
     color: #1d4ed8;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -120,7 +120,7 @@ a {
     max-width: 750px;
     margin-bottom: 20px;
     color: #374151;
-    font-size: 27px;
+    font-size: 22px;
     line-height: 1.35;
 }
 
@@ -839,7 +839,7 @@ a {
     }
 
     .hero h2 {
-        font-size: 22px;
+        font-size: 19px;
     }
 
     .hero-description {
