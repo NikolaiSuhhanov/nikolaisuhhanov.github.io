@@ -1,9 +1,10 @@
 %PDF-1.4
+%ASCII
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+<< /Type /Pages /Kids [8 0 R 9 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -15,139 +16,175 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
+<< /Length 5601 >>
+stream
+BT /F2 21 Tf 0.122 0.306 0.475 rg 107.0 794.0 Td (Education and Medical Experience) Tj ET
+BT /F3 10.5 Tf 0.360 0.360 0.360 rg 132.0 772.0 Td (Medical background, surgical practice and current technology studies) Tj ET
+0.933 0.961 0.980 rg 45.0 686.0 505.0 67.0 re f
+0.720 0.800 0.900 RG 0.60 w 45.0 686.0 505.0 67.0 re S
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 53.0 731.0 Td (Former general surgeon with more than eight years of clinical and surgical experience, including) Tj ET
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 53.0 717.0 Td (emergency and elective abdominal surgery. Currently studying Web Technologies at EEK Mainor while) Tj ET
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 53.0 703.0 Td (transitioning into medical simulation, XR and MedTech development.) Tj ET
+BT /F2 13.2 Tf 0.122 0.306 0.475 rg 45.0 664.0 Td (Current Education) Tj ET
+0.878 0.933 0.969 rg 45.0 614.0 165.0 38.0 re f
+0.985 0.992 0.997 rg 210.0 614.0 340.0 38.0 re f
+BT /F2 9.5 Tf 0.122 0.306 0.475 rg 104.0 635.0 Td (Current) Tj ET
+BT /F2 10.3 Tf 0.140 0.140 0.140 rg 220.0 636.0 Td (Web Technologies - Bachelor's degree programme) Tj ET
+BT /F1 9.2 Tf 0.360 0.360 0.360 rg 220.0 621.0 Td (Estonian Entrepreneurship University of Applied Sciences \(EEK Mainor\), Estonia) Tj ET
+BT /F2 13.2 Tf 0.122 0.306 0.475 rg 45.0 591.0 Td (Medical Education and Professional Training) Tj ET
+0.878 0.933 0.969 rg 45.0 527.0 165.0 42.0 re f
+0.985 0.992 0.997 rg 210.0 527.0 340.0 42.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 96.0 553.0 Td (2006-2012) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 555.0 Td (Degree in General Medicine) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 541.0 Td (Saint Petersburg State Pediatric Medical University) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 527.0 m 550.0 527.0 l S
+0.878 0.933 0.969 rg 45.0 499.0 165.0 28.0 re f
+0.985 0.992 0.997 rg 210.0 499.0 340.0 28.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 96.0 511.0 Td (2012-2013) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 513.0 Td (Internship in Surgery) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 499.0 m 550.0 499.0 l S
+0.878 0.933 0.969 rg 45.0 471.0 165.0 28.0 re f
+0.985 0.992 0.997 rg 210.0 471.0 340.0 28.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 96.0 483.0 Td (2013-2015) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 485.0 Td (Residency in Surgery) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 471.0 m 550.0 471.0 l S
+0.878 0.933 0.969 rg 45.0 429.0 165.0 42.0 re f
+0.985 0.992 0.997 rg 210.0 429.0 340.0 42.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 96.0 455.0 Td (2016) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 457.0 Td (Advanced Training) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 443.0 Td (Emergency Surgery of the Abdominal and Retroperitoneal Organs) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 429.0 m 550.0 429.0 l S
+0.878 0.933 0.969 rg 45.0 401.0 165.0 28.0 re f
+0.985 0.992 0.997 rg 210.0 401.0 340.0 28.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 96.0 413.0 Td (2020) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 415.0 Td (Continuing Professional Education in Surgery) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 401.0 m 550.0 401.0 l S
+0.878 0.933 0.969 rg 45.0 373.0 165.0 28.0 re f
+0.985 0.992 0.997 rg 210.0 373.0 340.0 28.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 70.0 385.0 Td (Dec 2020 - Mar 2021) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 387.0 Td (Professional Retraining in Oncology) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 373.0 m 550.0 373.0 l S
+0.878 0.933 0.969 rg 45.0 345.0 165.0 28.0 re f
+0.985 0.992 0.997 rg 210.0 345.0 340.0 28.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 70.0 357.0 Td (Sep 2021 - Nov 2021) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 359.0 Td (Professional Retraining in Transfusiology) Tj ET
+BT /F2 13.2 Tf 0.122 0.306 0.475 rg 45.0 311.0 Td (Clinical Work Experience) Tj ET
+0.878 0.933 0.969 rg 45.0 247.0 165.0 42.0 re f
+0.985 0.992 0.997 rg 210.0 247.0 340.0 42.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 97.0 273.0 Td (2014-2016) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 275.0 Td (Surgeon) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 261.0 Td (Tikhvin District Hospital) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 247.0 m 550.0 247.0 l S
+0.878 0.933 0.969 rg 45.0 193.0 165.0 54.0 re f
+0.985 0.992 0.997 rg 210.0 193.0 340.0 54.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 97.0 231.0 Td (2016-2018) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 233.0 Td (Surgeon) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 219.0 Td (N. I. Pirogov Clinic of High Medical Technologies,) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 207.0 Td (Saint Petersburg State University) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 193.0 m 550.0 193.0 l S
+0.878 0.933 0.969 rg 45.0 145.0 165.0 48.0 re f
+0.985 0.992 0.997 rg 210.0 145.0 340.0 48.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 97.0 177.0 Td (2018-2020) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 179.0 Td (Emergency Surgeon) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 165.0 Td (2nd Surgical Department, City Hospital No. 26, Saint Petersburg) Tj ET
+0.820 0.870 0.930 RG 0.60 w 45.0 145.0 m 550.0 145.0 l S
+0.878 0.933 0.969 rg 45.0 87.0 165.0 58.0 re f
+0.985 0.992 0.997 rg 210.0 87.0 340.0 58.0 re f
+BT /F2 9.1 Tf 0.122 0.306 0.475 rg 97.0 129.0 Td (2020-2022) Tj ET
+BT /F2 9.9 Tf 0.140 0.140 0.140 rg 220.0 131.0 Td (Surgeon) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 117.0 Td (Surgical Department, E. E. Eichwald Clinic, North-Western State Medical) Tj ET
+BT /F1 8.9 Tf 0.360 0.360 0.360 rg 220.0 105.0 Td (University named after I. I. Mechnikov) Tj ET
+BT /F1 8.2 Tf 0.360 0.360 0.360 rg 207.0 27.0 Td (Nikolai Suhhanov  |  nikolaisuhhanov.com) Tj ET
+endstream
 endobj
 7 0 obj
-<< /Length 3921 >>
+<< /Length 4819 >>
 stream
-BT /F2 21 Tf 0.122 0.306 0.475 rg 118 790 Td (Education and Medical Experience) Tj ET
-BT /F3 10.5 Tf 0.353 0.353 0.353 rg 141 766 Td (Medical background, surgical practice and current technology studies) Tj ET
-0.918 0.949 0.973 rg 45 680 505 70 re f
-0.706 0.780 0.906 RG 45 680 505 70 re S
-BT /F1 9.5 Tf 0.150 0.150 0.150 rg 53 733 Td (Former general surgeon with more than eight years of clinical and surgical experience,) Tj ET
-BT /F1 9.5 Tf 0.150 0.150 0.150 rg 53 720.5 Td (including emergency and elective abdominal surgery. Currently studying Web Technologies at) Tj ET
-BT /F1 9.5 Tf 0.150 0.150 0.150 rg 53 708.0 Td (the Estonian Entrepreneurship University of Applied Sciences \(EEK Mainor\) while) Tj ET
-BT /F1 9.5 Tf 0.150 0.150 0.150 rg 53 695.5 Td (transitioning into medical simulation, XR and MedTech development.) Tj ET
-BT /F2 13 Tf 0.122 0.306 0.475 rg 45 662 Td (Current Education) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 642 Td (Current) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 642 Td (Web Technologies \(Bachelor's degree programme\)) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 627 Td (Estonian Entrepreneurship University of Applied Sciences \(EEK Mainor\),) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 614 Td (Estonia) Tj ET
-BT /F2 13 Tf 0.122 0.306 0.475 rg 45 597 Td (Medical Education and Professional Training) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 577 Td (2006-2012) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 577 Td (Degree in General Medicine) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 562 Td (Saint Petersburg State Pediatric Medical University) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 547 Td (2012-2013) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 547 Td (Internship in Surgery) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 530 Td (2013-2015) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 530 Td (Residency in Surgery) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 513 Td (2016) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 513 Td (Advanced Training) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 498 Td (Emergency Surgery of the Abdominal and Retroperitoneal Organs) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 483 Td (2020) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 483 Td (Continuing Professional Education in Surgery) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 466 Td (Dec 2020 - Mar 2021) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 466 Td (Professional Retraining in Oncology) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 449 Td (Sep 2021 - Nov 2021) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 449 Td (Professional Retraining in Transfusiology) Tj ET
-BT /F2 13 Tf 0.122 0.306 0.475 rg 45 431 Td (Clinical Work Experience) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 411 Td (2014-2016) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 411 Td (Surgeon) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 396 Td (Tikhvin District Hospital) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 381 Td (2016-2018) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 381 Td (Surgeon) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 366 Td (N. I. Pirogov Clinic of High Medical Technologies, Saint Petersburg State) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 353 Td (University) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 338 Td (2018-2020) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 338 Td (Emergency Surgeon) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 323 Td (2nd Surgical Department, City Hospital No. 26, Saint Petersburg) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 45 308 Td (2020-2022) Tj ET
-BT /F2 10.1 Tf 0.150 0.150 0.150 rg 180 308 Td (Surgeon) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 293 Td (Surgical Department, E. E. Eichwald Clinic, North-Western State Medical) Tj ET
-BT /F1 9.8 Tf 0.150 0.150 0.150 rg 60 280 Td (University named after I. I. Mechnikov) Tj ET
-BT /F1 8.3 Tf 0.353 0.353 0.353 rg 198 28 Td (Nikolai Suhhanov  |  nikolaisuhhanov.com) Tj ET
+BT /F2 15 Tf 0.122 0.306 0.475 rg 45.0 795.0 Td (Selected Surgical Experience) Tj ET
+0.933 0.961 0.980 rg 45.0 642.0 505.0 134.0 re f
+0.720 0.800 0.900 RG 0.60 w 45.0 642.0 505.0 134.0 re S
+BT /F2 11.5 Tf 0.122 0.306 0.475 rg 53.0 754.0 Td (Outpatient surgery) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 734.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 734.0 Td (Removal of lipomas) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 719.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 719.0 Td (Removal of atheromas) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 704.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 704.0 Td (Incision and drainage of furuncles) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 689.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 689.0 Td (Incision and drainage of hidradenitis) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 674.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 674.0 Td (Primary surgical wound treatment with suturing) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 659.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 659.0 Td (Incision and drainage of paraproctitis) Tj ET
+0.933 0.961 0.980 rg 45.0 491.0 505.0 134.0 re f
+0.720 0.800 0.900 RG 0.60 w 45.0 491.0 505.0 134.0 re S
+BT /F2 11.5 Tf 0.122 0.306 0.475 rg 53.0 603.0 Td (Elective surgery) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 583.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 583.0 Td (Hernia repair for inguinal, umbilical, and postoperative ventral hernias) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 568.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 568.0 Td (Laparoscopic inguinal hernia repair) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 553.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 553.0 Td (Tracheostomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 538.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 538.0 Td (Gastrostomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 523.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 523.0 Td (Milligan-Morgan hemorrhoidectomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 508.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 508.0 Td (Laparoscopic cholecystectomy) Tj ET
+0.933 0.961 0.980 rg 45.0 224.0 505.0 250.0 re f
+0.720 0.800 0.900 RG 0.60 w 45.0 224.0 505.0 250.0 re S
+BT /F2 11.5 Tf 0.122 0.306 0.475 rg 53.0 452.0 Td (Emergency surgery) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 432.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 432.0 Td (Open appendectomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 417.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 417.0 Td (Laparoscopic appendectomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 402.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 402.0 Td (Repair of perforated gastric and duodenal ulcers) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 387.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 387.0 Td (Laparoscopic repair of perforated gastric and duodenal ulcers) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 372.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 372.0 Td (Adhesiolysis) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 357.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 357.0 Td (Creation of loop and end colostomies) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 342.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 342.0 Td (Repair of penetrating abdominal stab wounds with injuries to the small and large intestine) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 327.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 327.0 Td (Hernia repair for strangulated inguinal and umbilical hernias) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 312.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 312.0 Td (Small bowel resection with anastomosis) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 297.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 297.0 Td (Hartmann's procedure) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 282.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 282.0 Td (Right hemicolectomy) Tj ET
+BT /F2 9.4 Tf 0.122 0.306 0.475 rg 56.0 267.0 Td (-) Tj ET
+BT /F1 9.7 Tf 0.140 0.140 0.140 rg 67.0 267.0 Td (Left hemicolectomy) Tj ET
+BT /F2 12 Tf 0.122 0.306 0.475 rg 45.0 194.0 Td (Relevance to MedTech) Tj ET
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 45.0 177.0 Td (This clinical background provides practical knowledge of anatomy, surgical workflow,) Tj ET
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 45.0 164.0 Td (operating-room communication, procedural training needs and the real-world context in which) Tj ET
+BT /F1 9.8 Tf 0.140 0.140 0.140 rg 45.0 151.0 Td (surgical technologies are used.) Tj ET
+BT /F1 8.2 Tf 0.360 0.360 0.360 rg 207.0 27.0 Td (Nikolai Suhhanov  |  nikolaisuhhanov.com) Tj ET
 endstream
 endobj
 8 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
 endobj
 9 0 obj
-<< /Length 4305 >>
-stream
-BT /F2 13 Tf 0.122 0.306 0.475 rg 45 790 Td (Selected Surgical Experience) Tj ET
-BT /F2 10.7 Tf 0.150 0.150 0.150 rg 45 770 Td (Outpatient surgery) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 754 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 754 Td (Removal of lipomas) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 741 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 741 Td (Removal of atheromas) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 728 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 728 Td (Incision and drainage of furuncles) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 715 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 715 Td (Incision and drainage of hidradenitis) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 702 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 702 Td (Primary surgical wound treatment with suturing) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 689 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 689 Td (Incision and drainage of paraproctitis) Tj ET
-BT /F2 10.7 Tf 0.150 0.150 0.150 rg 45 670 Td (Elective surgery) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 654 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 654 Td (Hernia repair for inguinal, umbilical, and postoperative ventral hernias) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 641 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 641 Td (Laparoscopic inguinal hernia repair) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 628 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 628 Td (Tracheostomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 615 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 615 Td (Gastrostomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 602 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 602 Td (Milligan-Morgan hemorrhoidectomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 589 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 589 Td (Laparoscopic cholecystectomy) Tj ET
-BT /F2 10.7 Tf 0.150 0.150 0.150 rg 45 570 Td (Emergency surgery) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 554 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 554 Td (Open appendectomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 541 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 541 Td (Laparoscopic appendectomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 528 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 528 Td (Repair of perforated gastric and duodenal ulcers) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 515 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 515 Td (Laparoscopic repair of perforated gastric and duodenal ulcers) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 502 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 502 Td (Adhesiolysis) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 489 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 489 Td (Creation of loop and end colostomies) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 476 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 476 Td (Repair of penetrating abdominal stab wounds with injuries to the small and large) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 463 Td (intestine) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 450 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 450 Td (Hernia repair for strangulated inguinal and umbilical hernias) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 437 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 437 Td (Small bowel resection with anastomosis) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 424 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 424 Td (Hartmann's procedure) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 411 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 411 Td (Right hemicolectomy) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 56 398 Td (-) Tj ET
-BT /F1 9.7 Tf 0.150 0.150 0.150 rg 68 398 Td (Left hemicolectomy) Tj ET
-BT /F2 10.4 Tf 0.122 0.306 0.475 rg 45 379 Td (Relevance to MedTech:) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 45 364 Td (This clinical background provides practical knowledge of anatomy, surgical workflow,) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 45 351 Td (operating-room communication, procedural training needs and the real-world context in) Tj ET
-BT /F1 10 Tf 0.150 0.150 0.150 rg 45 338 Td (which surgical technologies are used.) Tj ET
-BT /F1 8.3 Tf 0.353 0.353 0.353 rg 198 28 Td (Nikolai Suhhanov  |  nikolaisuhhanov.com) Tj ET
-endstream
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
 endobj
 xref
 0 10
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000121 00000 n 
-0000000191 00000 n 
-0000000266 00000 n 
-0000000344 00000 n 
-0000000490 00000 n 
-0000004462 00000 n 
-0000004608 00000 n 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000128 00000 n 
+0000000198 00000 n 
+0000000273 00000 n 
+0000000351 00000 n 
+0000006003 00000 n 
+0000010873 00000 n 
+0000011019 00000 n 
 trailer
 << /Size 10 /Root 1 0 R >>
 startxref
-8964
+11165
 %%EOF
